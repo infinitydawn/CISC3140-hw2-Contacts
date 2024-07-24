@@ -1,0 +1,41 @@
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+  text-align: center;
+}
+
+div {	text-align: center;
+         color: #7FFFD4;
+         background-color: lightblue;
+         margin: auto;
+         font-size: 25px;
+         justify-content: center;
+         padding: 4.5px;
+      }
+
+div.names, button {
+  border: 5px outset #FFFFF0;
+  color: #FA8072;
+  display: inline-block;
+  font-weight: bold;
+}
+
+div.teams {
+	font-weight: bold;
+  display: inline-grid;
+  border: 5px outset #7FFFD4;
+  background-color: lightblue;
+}
+
+
+#para1 {
+	color: #E9967A;
+	font-size: 30px;
+}
+
+p {
+	color: #000000;
+}
